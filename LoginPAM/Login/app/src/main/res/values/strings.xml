@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="titulo">Tela de Login</string>
+    <string name="nome">Digite o nome:</string>
+    <string name="senha">Digite a senha:</string>
+    <string name="botao">Entrar</string>
+</resources>
